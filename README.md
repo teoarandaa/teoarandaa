@@ -1,34 +1,58 @@
-<p align="center"><img src="https://store.micronetbolivia.com/images/chipM1.gif" alt="GIF chip m1"></p>
+# Business Manager
 
-## 🚀 Welcome to my Portfolio 🚀
+Transform your business performance tracking with intuitive analytics and real-time insights.
 
-Hello! I'm Teo, a passionate software developer with experience in backend and frontend. Currently, I'm studying Multiplatform Application Development. This is my portfolio where you can find some of the projects I've worked on.
+## Overview
 
-### 🌟 Featured Projects 🌟
+Business Manager redefines how organizations track, analyze, and optimize their departmental performance. With a focus on simplicity and powerful analytics, it provides the tools you need to make data-driven decisions.
 
-1. **[💌 ADMV 💌](https://github.com/teoarandaa/museum-admv)**
-   - A website dedicated to my current partner with a focus on being a museum just for her ❤️.
+![Business Manager Preview](assets/preview.png)
 
-2. **[📚 StudIA 📚](https://github.com/teoarandaa/StudIA-optimized)** ➡️ **[LINK TO THE WEBSITE](https://teoarandaa.github.io/StudIA-optimized/)**
-   - Startup project of an application for autonomous study and promoting self-taught study 🧠.
+## Features
 
-3. **[🔵 Punt Blau 🔵](https://github.com/teoarandaa/puntblauapp)**
-   - Application for a local business responsible for recycling furniture 🪑.
+### Powerful Analytics
+Transform complex data into clear, actionable insights with our advanced analytics engine.
 
-### ⚙️ Technologies Used ⚙️
+### Real-Time Monitoring
+Track your departments' performance in real-time with interactive dashboards and detailed metrics.
 
-- 💻 HTML/CSS
-- 🚀 Java
-- 🐍 Python
-- 🧰 SQL
-- 📜 XML
+### Privacy First
+Your data security is our priority:
+- End-to-end encryption
+- Local data processing
+- iCloud sync
+- Secure backups
 
-<img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" width="50" heigth="50">   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" width="50" heigth="50">   <img src="https://brandslogos.com/wp-content/uploads/thumbs/java-logo-vector-1.svg" width="50" heigth="50">   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" width="50" heigth="50">     <img src="https://static-00.iconduck.com/assets.00/sql-database-generic-icon-1521x2048-d0vdpxpg.png" width="50" heigth="50">     <img src="https://www.psdevwiki.com/vita/images/f/fb/Xml-logo.png" width="50" heigth="50">
+### Comprehensive Reports
+Generate detailed reports with:
+- Performance metrics
+- Efficiency analysis
+- Quality indicators
+- Task tracking
+- Custom visualizations
 
+## Technology
 
-### 📥 Contact 📥
+Built with privacy and performance in mind:
+- Swift UI
+- Core Data
+- CloudKit
+- Local Analytics
+- Custom Visualization Engine
 
-If you want to collaborate on any of my projects or just chat about software development, feel free to get in touch with me!
+## Availability
 
-- LinkedIn: [Teo Aranda Páez](https://www.linkedin.com/feed/)
-- Email: [teoap2005@gmail.com](mailto:teoap2005@gmail.com)
+Download Business Manager on the App Store:
+
+[![Download on the App Store](assets/app-store-badge.svg)](https://apps.apple.com/app/id123456789)
+
+## Connect With Us
+
+Follow our journey:
+- [Instagram](https://instagram.com/businessmanager.app)
+- [Support](https://businessmanager.app/support)
+- [Privacy Policy](https://businessmanager.app/privacy)
+
+---
+
+<sub>Designed in Barcelona with ❤️</sub>
