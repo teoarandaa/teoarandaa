@@ -20,8 +20,7 @@ Welcome to my GitHub! I’m a passionate programmer, creative thinker, and aspir
 ---
 
 ## 🛠️ **Tech Stack**
-- **Languages:** Java, Python, Swift, PHP  
-- **Frameworks & Tools:** Spring Boot, Django, Pygame, SwiftUI  
+- **Languages:** Java, Swift, PHP, HTML, CSS
 - **Databases:** MySQL, PostgreSQL  
 - **Version Control:** Git, GitHub  
 
@@ -31,14 +30,6 @@ Welcome to my GitHub! I’m a passionate programmer, creative thinker, and aspir
 - I enjoy building intuitive user experiences with a balance of form and function.  
 - I’m fascinated by the intersection of technology and creativity.  
 - Outside of programming, you can find me brainstorming new ideas or enjoying a good tech read.  
-
----
-
-## 📬 **Let’s Connect**
-Feel free to reach out or explore my work:
-- [LinkedIn](https://www.linkedin.com/in/teoaranda)  
-- [Portfolio](https://teoaranda.dev) (Coming Soon!)  
-- Email: teoaranda@example.com  
 
 ---
 
