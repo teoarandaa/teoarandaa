@@ -2,9 +2,9 @@
 
 # 🌟 **Teo Aranda** 🌟
 
-### 💻 Passionate Programmer | 🎨 Creative Thinker | 🚀 Aspiring Entrepreneur
+### 💻 Passionate Programmer | 🎨 Creative Thinker | 🚀 Aspiring Entrepreneur | 🤖 AI Enthusiast
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub!;Turning+ideas+into+impact;Code+is+my+canvas" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub!;Turning+data+into+insights;Building+intelligent+solutions;Code+is+my+canvas" alt="Typing SVG" />
 
 ---
 
@@ -21,12 +21,13 @@
 
 ```javascript
 const teoAranda = {
-    role: "Full Stack Developer",
+    role: "Full Stack Developer & AI Explorer",
     mindset: "Creative Problem Solver",
-    passion: ["Innovation", "Clean Code", "User Experience"],
+    passion: ["Innovation", "Clean Code", "User Experience", "Machine Learning", "Data Analytics"],
+    specialInterests: ["Artificial Intelligence", "Pattern Recognition", "Predictive Models"],
     philosophy: "Code is the canvas, creativity is the brush, and innovation is the masterpiece",
-    currentFocus: ["Building innovative projects", "Exploring entrepreneurship", "Continuous learning"],
-    funFact: "I see code as a way to shape ideas and build tools that make a difference"
+    currentFocus: ["Building innovative projects", "Exploring entrepreneurship", "AI & ML research"],
+    funFact: "I see code as a way to shape ideas and extract insights that transform data into wisdom"
 };
 ```
 
@@ -65,6 +66,22 @@ const teoAranda = {
 
 </td>
 </tr>
+<tr>
+<td>
+
+**🤖 AI & Analytics Explorer**
+<br>
+*Passionate about uncovering hidden patterns and building intelligent systems that learn and adapt.*
+
+</td>
+<td>
+
+**📊 Data Storyteller**
+<br>
+*Transforming raw information into meaningful insights and predictive models that drive decisions.*
+
+</td>
+</tr>
 </table>
 
 ---
@@ -76,8 +93,9 @@ const teoAranda = {
 | 🎯 **Focus Area** | 📝 **Description** |
 |:-----------------:|:------------------:|
 | ✨ **Innovation** | Building projects that improve efficiency, creativity, and performance across various fields |
-| 🔍 **Entrepreneurship** | Exploring exciting opportunities in the tech industry |
-| 📚 **Knowledge Expansion** | Diving deep into cutting-edge technologies and methodologies |
+| 🤖 **AI & Machine Learning** | Developing intelligent systems and exploring predictive analytics to solve real-world problems |
+| 🔍 **Entrepreneurship** | Exploring exciting opportunities in the tech industry, especially AI-driven solutions |
+| 📚 **Knowledge Expansion** | Diving deep into algorithms, neural networks, and advanced data analysis techniques |
 
 </div>
 
@@ -100,6 +118,14 @@ const teoAranda = {
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
+### **AI & Data Analytics**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
 ### **Tools & Version Control**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -116,11 +142,15 @@ const teoAranda = {
 ```ascii
     🎨 Building intuitive user experiences with perfect form-function balance
     
-    🔬 Fascinated by the intersection of technology and creativity
+    🤖 Fascinated by how machines can learn and discover patterns in data
     
-    📖 Always brainstorming new ideas or enjoying a good tech read
+    🔬 Exploring the intersection of technology, creativity, and artificial intelligence
     
-    💡 Believer that innovation comes from creative problem-solving
+    📊 Passionate about turning complex datasets into compelling visual stories
+    
+    📖 Always brainstorming AI-driven solutions or diving into ML research papers
+    
+    💡 Believer that the future lies in intelligent systems that augment human creativity
 ```
 
 </div>
