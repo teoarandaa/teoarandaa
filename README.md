@@ -1,6 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Teo%20Aranda&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%26%20AI%20Explorer&descAlignY=51&descAlign=50" />
+<img width="100%" src="tumblr_85e28b2c1364a2084bd7a6727add810a_0f03a27d_1280.gif" alt="Developer Workspace" />
+
+# 🌟 **Teo Aranda** 🌟
 
 ### 💻 Passionate Programmer | 🎨 Creative Thinker | 🚀 Aspiring Entrepreneur | 🤖 AI Enthusiast
 
