@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌟 **Teo Aranda** 🌟
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Teo%20Aranda&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%26%20AI%20Explorer&descAlignY=51&descAlign=50" />
 
 ### 💻 Passionate Programmer | 🎨 Creative Thinker | 🚀 Aspiring Entrepreneur | 🤖 AI Enthusiast
 
